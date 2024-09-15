@@ -1,0 +1,6 @@
+# development
+/src
+
+# config
+*.config.js
+tsconfig.json

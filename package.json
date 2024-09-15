@@ -1,0 +1,33 @@
+{
+  "name": "vue-ui-chosen",
+  "version": "1.0.1",
+  "main": "./dist/index.js",
+  "types": "./dist/types/index.d.ts",
+  "description": "A simple and reusable chosen component for Vue",
+  "keywords": [
+    "vue",
+    "chosen",
+    "select",
+    "multiple",
+    "vue-component"
+  ],
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boulteu/vue-ui-chosen.git"
+  },
+  "author": "Boulteu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boulteu/vue-ui-chosen/issues"
+  },
+  "homepage": "https://github.com/boulteu/vue-ui-chosen#readme",
+  "peerDependencies": {
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+
+  }
+}
